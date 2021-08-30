@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7dc047c233344664c9996be4c36379e2, type: 3}
-  m_Name: New Inventory Item
+  m_Name: Hammer
   m_EditorClassIdentifier: 
   itemID: 5a449765-72b3-4cb0-be6f-bf197b8d7868
-  displayName: 
-  description: 
-  icon: {fileID: 0}
+  displayName: Hammer
+  description: heavy and sturdy
+  icon: {fileID: 21300000, guid: ec22508be0cdfba4abbaeb770bef08aa, type: 3}
   stackable: 0
